@@ -127,6 +127,13 @@ input[type="radio"] {
   background-color: #fff0ee;
 }
 
+.highlight {
+  background-color: #fff0ee;
+  color: #bd301d;
+  font-weight: bold;
+  accent-color: #bd301d;
+}
+
 .cat-img {
   max-width: 340px;
   max-height: 420px;
